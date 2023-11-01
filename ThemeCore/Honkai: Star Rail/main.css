@@ -1,3 +1,5 @@
+@import url(https://raw.githubusercontent.com/chezzakowo/BetterDiscord-Theme-And-Plugins/main/ThemeCore/Honkai%3A%20Star%20Rail/core2.css);
+/* This code is acctually based on ClearVision btw. Shoutout to them */
 :root {
   --main-color: #d69d9c;
   --hover-color: #1e63b3;
@@ -82,4 +84,4 @@
   --bd-blue-active: var(--hover-color);
   --font-primary: var(--main-font)
 }
-@import url(https://raw.githubusercontent.com/chezzakowo/BetterDiscord-Theme-And-Plugins/main/ThemeCore/Honkai%3A%20Star%20Rail/core2.css);
+
