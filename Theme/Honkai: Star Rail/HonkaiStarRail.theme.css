@@ -1,7 +1,7 @@
 /**
  * @name Honkai: Star Rail
  * @author Chez_Zak
- * @version 1.4.0
+ * @version 2.0 - Preview
  * @description Honkai: Star Rail theme for fans of the game.
  * @source https://github.com/chezzakowo/BetterDiscord-Theme-And-Plugins/tree/main/Theme/Honkai:%20Star%20Rail
  * @invite EkDz8vtVUU
@@ -38,7 +38,7 @@ Pls don't remove this line or the theme won't work */
   --members-width: 240px; /* Width of members list */
   --background-shading: 100%; /* Background shading */
   --background-overlay: rgba(0, 0, 0, 0.6); /* Background overlay color and transparency */
-  --background-image: url(https://github.com/chezzakowo/BetterDiscord-Theme-And-Plugins/blob/main/ThemeAssets/4df92d7f8609e87e57850774867c7d62.jpg?raw=true); /* Background image URL */
+  --background-image: url(https://github.com/chezzakowo/BetterDiscord-Theme-And-Plugins/blob/main/ThemeAssets/1296221.jpg?raw=true); /* Background image URL */
   --background-position: center; /* Background image position */
   --background-size: cover; /* Background image size */
   --background-repeat: no-repeat; /* Background image repeat */
@@ -587,7 +587,7 @@ textarea,
 }
 
 .typeWindows__5fa63>.wordmark__0d178:after {
-  content: "1.4.0";
+  content: "2.0 - Preview";
   color: rgba(255, 255, 255, .3);
   font-family: var(--code-font);
   font-size: 10px
@@ -1385,7 +1385,7 @@ textarea,
 }
 
 .theme-dark .container_ca50b9:after {
-  content: "1.4.0";
+  content: "2.0 - Preview";
   left: 50%;
   text-align: left;
   opacity: 0;
